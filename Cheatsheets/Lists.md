@@ -1,4 +1,4 @@
-# [PYC-02] Cheatsheet - Lists
+# Cheatsheet - Lists
 
 ## Extracting items from a list
 
