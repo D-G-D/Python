@@ -1,4 +1,4 @@
-# [PYC-04] Cheatsheet - Matplotlib
+# Cheatsheet - Matplotlib
 
 ## Main plot types
 
