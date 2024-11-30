@@ -1,4 +1,4 @@
-# [PYC-03] Cheatsheet - NumPy
+# Cheatsheet - NumPy
 
 ## Subsetting 1D arrays
 
