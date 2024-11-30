@@ -17,7 +17,7 @@ Questions:
 
 6. A **prime** is a positive integer greater than 1 that is not a product of two smaller positive integers. Starting with the list `primes = [2]`, use a loop for building the list of primes lower than 100. The number 100 of course can be replaced ny any other number, so you would probably be able to write a function that takes an integer `n` and returns the numer of primes lower than `n`.
 
-7. Going back to exercise 4 of lecture PY-03, create a list containing the leap years of the 20th century.
+7. Going back to exercise 4 of day 2, create a list containing the leap years of the 20th century.
 
 8. Write a function that drops the duplicate items from a list, keeping the order. For instance, given the list `['a', 'f', 'a', 'b']`, that function would return `['a', 'f', 'b']`.
 
