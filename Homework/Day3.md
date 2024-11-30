@@ -5,7 +5,7 @@ Related technical note(s):
 
 Questions:
 
-1. The **body mass index** (BMI) is defined as the body mass (kg) divided by the square of the body height (m2). It is used to broadly categorize a major adult person as underweight (under 18.5 kg/m2), normal weight (18.5 to 24.9), overweight (25 to 29.9), or obese (30 or more), or obese. Write a function that takes the heigh and weight of a person, in the adequate units, and returns the categorization underweight/normal weight/overweight/obese.
+1. The **body mass index** (BMI) is defined as the body mass (kg) divided by the square of the body height (m2). It is used to broadly categorize a major adult person as underweight (under 18.5 kg/m2), normal weight (18.5 to 24.9), overweight (25 to 29.9), or obese (30 or more). Write a function that takes the heigh and weight of a person, in the adequate units, and returns the categorization underweight/normal weight/overweight/obese.
 
 2. In databases, names are usually split in two or more columns. In US, we usually find three columns, such as `firstname`, `midname` and `lastname`. When the name has to be printed, the three pieces are pasted together. Write a function for this job. If the arguments supplied are `firstname='Donald'`, `midname='John'` and `lastname='Trump'`, the function would return `'Donald John Trump'`. But it should work also for the cases in which the middle name is omitted, which is not rare, in particular for foreign people.
 
