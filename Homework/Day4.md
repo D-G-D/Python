@@ -17,7 +17,7 @@ which can be multiplied by 100 to get percentage scale. The list `msft_price`, g
 
 ```
 msft_price = [329.00, 333.38, 331.29, 330.09, 337.24, 335.82, 331.31, 339.15, 336.92, 327.80,
-    326.17, 329.51, 319.26, 321.32, 316.59, 315.13, 312.30, 310.99, 317.75, 316.28, 320.83])
+    326.17, 329.51, 319.26, 321.32, 316.59, 315.13, 312.30, 310.99, 317.75, 316.28, 320.83]
 ```
 
 5. In the first exercise of the homework of day 3, you wrote a function which takes the height and the weight (single numbers, not vectors) and returns a **categorization** of the BMI. Can you modify that function so it takes a vector of heights and a vector of weights and returns a vector of categorized BMI's? Note that what you need is a **vectorized function**.
