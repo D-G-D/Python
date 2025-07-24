@@ -1,4 +1,4 @@
-# Example - Orders to suppliers
+# Orders to suppliers
 
 ## Introduction
 
